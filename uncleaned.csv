@@ -1,0 +1,121 @@
+EmployeeID,Name,Age,Department,Salary,Experience,City,Gender,Rating,Status
+46,,25,Sales,55k,,,F,5,Active
+67,123,45,finance,30000,5,,,5,
+24,Meera,thirty,,50000,1,Delhi,F,bad,
+117,Meera,25,Sales,80000,1,HYD,,bad,
+66,,25,Hr,55k,,  chennai,,4.1,Active
+82,,thirty,Sales,55k,1,HYD,M,bad,ACTIVE
+22,Pooja,30,Hr,55k,10,,F,4.1,
+102,  amit,,MARKETING,,5,HYD,M,,
+91,Pooja,25,,80000,5,HYD,M,3.5,Active
+56,Neha,45,IT,,10,Delhi,F,4.1,ACTIVE
+13,123,25,MARKETING,30000,10,,male,5,
+22,,,,55k,1,Bangalore,male,,inactive
+71,,29,Sales,55k,two,,male,,
+88,Simran,29,,30000,,,,3.5,ACTIVE
+109,,25,IT,55k,5,Mumbai,male,3.5,inactive
+41,Simran,30,,30000,10,,F,5,inactive
+89,,,Hr,55k,10,,,5,
+7,Pooja,45,,30000,,,M,4.1,inactive
+38,Riya ,25,finance,not given,,  chennai,M,4.1,
+101,Meera,25,MARKETING,,,HYD,F,5,inactive
+67,Simran,thirty,MARKETING,30000,,Bangalore,,3.5,
+47,Karan,29,,,5,Delhi,M,3.5,Active
+6,Karan,thirty,IT,50000,two,  chennai,F,4.1,ACTIVE
+43,Rahul,,,,5,Delhi,M,4.1,ACTIVE
+,Rahul,29,MARKETING,,1,  chennai,,bad,inactive
+74,Meera,30,,not given,5,  chennai,,3.5,
+54,Arjun,29,,50000,1,Delhi,,,
+5,,,,30000,10,Delhi,,,
+18,  amit,45,Sales,50000,,,,4.1,
+59,,thirty,MARKETING,30000,10,,male,,Active
+43,123,25,Sales,55k,,Delhi,,,ACTIVE
+62,  amit,thirty,,45000,5,HYD,F,,
+68,,45,finance,45000,,Bangalore,M,5,
+55,Meera,45,MARKETING,55k,1,HYD,F,5,inactive
+23,Karan,25,Sales,30000,,Bangalore,male,,
+54,Riya ,,Hr,55k,two,,M,3.5,
+52,,,Hr,,,,,3.5,
+111,Meera,,IT,,,,male,,ACTIVE
+60,Riya ,29,,50000,,Delhi,,3.5,Active
+63,Simran,,finance,55k,5,Delhi,,5,Active
+33,Riya ,30,finance,30000,two,,,,Active
+55,,29,MARKETING,30000,two,  chennai,male,4.1,
+72,Rahul,25,MARKETING,55k,5,  chennai,,,ACTIVE
+77,123,,Hr,80000,10,Bangalore,,,Active
+37,,30,finance,45000,,,male,,
+3,Simran,45,IT,,5,HYD,,,Active
+109,Rahul,25,IT,50000,two,,F,,ACTIVE
+8,Pooja,30,,80000,5,,M,4.1,
+86,Simran,,IT,not given,1,  chennai,M,,
+98,Karan,,,45000,,HYD,M,4.1,
+66,,thirty,Hr,not given,1,Delhi,M,,
+71,Rahul,,finance,30000,,Bangalore,,5,Active
+82,,29,MARKETING,,10,  chennai,,5,ACTIVE
+47,,,,45000,10,Delhi,,,ACTIVE
+,123,30,IT,,10,,F,5,Active
+63,Riya ,29,finance,80000,,Mumbai,M,3.5,Active
+15,Simran,,Hr,80000,two,,,bad,ACTIVE
+117,Simran,,MARKETING,30000,5,  chennai,F,3.5,
+30,,thirty,Hr,80000,,,M,3.5,Active
+92,123,,,not given,5,Delhi,F,3.5,Active
+43,Neha,thirty,,45000,,,,4.1,
+91,Pooja,25,Sales,,5,Mumbai,,4.1,Active
+70,Pooja,30,IT,,two,Bangalore,F,,
+22,Rahul,45,Hr,55k,,Bangalore,M,3.5,
+9,Karan,45,MARKETING,not given,two,  chennai,male,4.1,Active
+104,Pooja,25,MARKETING,50000,10,,male,,
+34,Simran,thirty,MARKETING,45000,,HYD,male,,
+63,Meera,,finance,55k,two,HYD,M,4.1,inactive
+60,Rahul,30,,55k,two,Delhi,male,,ACTIVE
+6,,25,finance,30000,1,Bangalore,F,,ACTIVE
+22,,thirty,IT,45000,1,HYD,,3.5,Active
+91,,,finance,55k,10,,M,,
+118,  amit,30,Sales,50000,,  chennai,,bad,inactive
+95,Arjun,,,30000,1,Bangalore,,4.1,
+20,Simran,25,Hr,45000,,HYD,,5,
+99,Neha,29,IT,30000,two,Mumbai,F,3.5,
+34,Arjun,45,finance,not given,,  chennai,M,,ACTIVE
+96,Simran,thirty,IT,,,Delhi,,3.5,inactive
+66,Pooja,thirty,Sales,45000,two,Bangalore,male,4.1,ACTIVE
+90,Riya ,thirty,finance,45000,1,Mumbai,M,3.5,inactive
+96,123,thirty,,80000,,Mumbai,F,bad,
+18,Karan,,finance,30000,10,HYD,,bad,ACTIVE
+26,,30,Sales,45000,1,Bangalore,male,3.5,
+3,Rahul,45,,,,  chennai,,5,
+18,Meera,25,MARKETING,,,,M,,ACTIVE
+32,Arjun,29,Hr,,5,,F,bad,Active
+29,  amit,45,,30000,1,HYD,male,bad,
+56,Arjun,30,,30000,1,  chennai,,,
+100,Pooja,,,55k,,Delhi,,,ACTIVE
+72,,45,,not given,,HYD,M,bad,
+92,  amit,29,Sales,80000,,  chennai,M,4.1,
+80,Rahul,29,Hr,30000,1,Delhi,,5,inactive
+30,Rahul,29,Hr,,10,Mumbai,F,4.1,
+1,Simran,,Hr,80000,5,HYD,F,bad,Active
+82,,29,,55k,,Bangalore,F,5,inactive
+49,Riya ,25,IT,not given,10,,male,,Active
+17,Arjun,45,,,,  chennai,M,3.5,
+20,Arjun,,finance,50000,5,,F,5,
+118,Rahul,,,not given,10,Delhi,,3.5,
+66,Riya ,thirty,Sales,50000,two,,F,,ACTIVE
+74,Riya ,,,,,  chennai,,bad,Active
+57,Simran,,MARKETING,50000,,Delhi,,,Active
+46,Neha,29,MARKETING,50000,10,Bangalore,M,5,
+15,  amit,45,,45000,5,Mumbai,F,4.1,inactive
+11,Arjun,thirty,finance,55k,5,Delhi,M,,ACTIVE
+92,Meera,,Sales,not given,two,Mumbai,M,3.5,
+106,Meera,25,Sales,45000,,Mumbai,M,5,ACTIVE
+104,Karan,29,Sales,80000,5,  chennai,,bad,
+8,Meera,,,30000,10,  chennai,,,inactive
+75,,,MARKETING,not given,two,HYD,,4.1,inactive
+66,123,25,finance,50000,5,Mumbai,,,
+109,Pooja,,,45000,5,Mumbai,M,,
+13,Riya ,thirty,,,10,,male,4.1,
+19,Karan,29,Hr,not given,1,,M,5,inactive
+52,Rahul,25,Sales,45000,two,Bangalore,,4.1,inactive
+14,Neha,29,,30000,two,Mumbai,M,5,inactive
+58,,30,IT,45000,1,  chennai,,5,Active
+34,Meera,thirty,MARKETING,55k,,,,,Active
+47,Pooja,,finance,55k,10,Mumbai,M,bad,
+3,Riya ,,,not given,5,Mumbai,F,4.1,
